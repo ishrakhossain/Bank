@@ -1,0 +1,36 @@
+#upperLogin{
+    margin-top: 200px;
+}
+.submit-area{
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 30px;
+   border-radius: 15px;
+   box-shadow: 5px 5px 10px grey;
+   padding: 40px;
+}
+#transaction-area{
+    margin-top: 150px;
+    margin-left: 50px;
+    display: none;
+}
+.deposit{
+    background-color: hotpink;
+    margin: 0 20px;
+    padding: 50px;
+  
+}
+.withdraw{
+    background-color: indigo;
+    margin: 0 20px;
+    padding: 50px;
+}
+
+.total{
+    background-color: orange;
+    margin: 0 20px;
+    padding: 50px;
+}
+#money{
+    display: none;
+}
